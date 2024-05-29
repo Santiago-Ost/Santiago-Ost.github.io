@@ -1,0 +1,87 @@
+header{
+    padding: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 6;
+    background-image: url(flag.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.on{
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.on:hover{
+    color: red;
+}
+a{
+    text-align: center;
+}
+body{
+    background-image: url(fondo2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+p{
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+.ans{
+    
+    text-align: center;
+    border: 5px solid #6e6e6e;
+    background-color: #421d1d;
+}
+.an{
+    border: 1px solid #2c09ba
+}
+.art{
+    color: #707070;
+
+}
+.cau{
+    color: #707070;
+
+}
+.lat{
+    color: rgb(68, 126, 219);
+
+}
+.bat{
+    color: #7b0404;
+
+}
+.min{
+    color: #573434;
+
+}
+.sia{
+    color: #98065b;
+
+}
+strong{
+    color:rgb(113, 0, 169);
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.container img {
+    margin-right: 20px;
+}
+.text-container{
+    flex: 1;
+    max-width: 300px;
+}
+h2{
+    color: #bf5c06;
+}
+.quo{
+    color: #bf5c06;
+}
+.ringeda{
+    width: 400px;
+    height: 200px;
+}
